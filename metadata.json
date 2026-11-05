@@ -1,0 +1,6 @@
+{
+  "name": "라인별 불량률 리포트",
+  "description": "작업자 현장 불량 입력 및 실시간 라인별 불량률 집계·일간 리포트 모바일 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
